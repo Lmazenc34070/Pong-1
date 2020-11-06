@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body{
 
     background-color: black;
@@ -23,38 +23,8 @@ body{
     left: 50%;
     
     width: 20px;
-    height: 20px;
+    height: 20px; 
     background-color: white;
 
     border-radius: 100px;
-=======
-body{
-
-    background-color: black;
-    color: white;
-    font-family: monospace;
-}
-
-#terrain{
-    position: relative;
-
-    border:1px solid white;
-
-    width:800px;
-    height: 400px;
-
-}
-
-#balle{
-
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    
-    width: 20px;
-    height: 20px;
-    background-color: white;
-
-    border-radius: 100px;
->>>>>>> 5d15ff8b1998579a7cb66324fe0236b843ca8a3d
 }
